@@ -18,7 +18,7 @@
 
 <br/>
 
-![Login Preview](file:///Users/souravsubham/Desktop/Screenshot%202026-05-28%20at%203.54.10%E2%80%AFPM.png)
+![Login Preview](![Login Preview](./assets/login-preview.png))
 
 </div>
 
