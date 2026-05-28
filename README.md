@@ -18,7 +18,7 @@
 
 <br/>
 
-![Login Preview](https://via.placeholder.com/800x400/1a1a2e/FF6B00?text=MPloyChek+SPA)
+![Login Preview](file:///Users/souravsubham/Desktop/Screenshot%202026-05-28%20at%203.54.10%E2%80%AFPM.png)
 
 </div>
 
